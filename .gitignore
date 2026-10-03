@@ -1,0 +1,8 @@
+# Backend - Java
+/student-curd/target/
+*.class
+*.jar
+.mvn/
+.mvnd/
+*.log
+.idea/
